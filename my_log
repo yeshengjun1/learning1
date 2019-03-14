@@ -1,0 +1,20 @@
+2019-03-13 17:09:02,616-------DEBUG________ This is a debug log.
+2019-03-13 17:09:02,616-------INFO________this is a info log
+2019-03-13 17:09:02,617-------WARNING________This is a warning log
+2019-03-13 17:09:02,617-------ERROR________This is a error log
+2019-03-13 17:09:02,617-------CRITICAL________This is a critical log
+2019-03-13 17:09:02,617-------DEBUG________this is a debug log
+2019-03-13 17:09:02,618-------INFO________this is a info log
+2019-03-13 17:09:02,618-------WARNING________this is a warning log
+2019-03-13 17:09:02,618-------ERROR________this is a error log
+2019-03-13 17:09:02,618-------CRITICAL________this is a critical log
+03/13/2019 17:25:05:PM-------DEBUG________ This is a debug log.
+03/13/2019 17:25:05:PM-------INFO________this is a info log
+03/13/2019 17:25:05:PM-------WARNING________This is a warning log
+03/13/2019 17:25:05:PM-------ERROR________This is a error log
+03/13/2019 17:25:05:PM-------CRITICAL________This is a critical log
+03/13/2019 17:25:05:PM-------DEBUG________this is a debug log
+03/13/2019 17:25:05:PM-------INFO________this is a info log
+03/13/2019 17:25:05:PM-------WARNING________this is a warning log
+03/13/2019 17:25:05:PM-------ERROR________this is a error log
+03/13/2019 17:25:05:PM-------CRITICAL________this is a critical log
